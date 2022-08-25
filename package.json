@@ -1,0 +1,26 @@
+{
+  "name": "website",
+  "version": "1.0.0",
+  "description": "Website Company",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cpopescu69/website.git"
+  },
+  "author": "Catalin Popescu",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/cpopescu69/website/issues"
+  },
+  "homepage": "https://github.com/cpopescu69/website#readme",
+  "dependencies": {
+    "body-parser": "^1.19.1",
+    "express": "^4.17.2",
+    "express-handlebars": "^6.0.2",
+    "node-fetch": "^2.6.6",
+    "nodemailer": "^6.7.2"
+  }
+}
